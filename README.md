@@ -19,6 +19,8 @@ Features:
 * Automatic balance calculation
 * Transaction history using Treeview
 
+GUI:  
+![GUI](Docs/bud_track.jpeg)  
 
 Code:
 ```python
@@ -129,6 +131,8 @@ Features:
 * Clear all entries
 
 Warning: This app does not use encryption. Do not use for real passwords.
+GUI:  
+![GUI](Docs/pass_man.jpeg)  
 
 Code:
 
@@ -222,6 +226,10 @@ Supported conversions:
 * Kilometers to Meters
 * Celsius to Fahrenheit
 * Fahrenheit to Celsius
+
+GUI:  
+![GUI](Docs/unit_conv.jpeg)  
+
 Code:
 
 ```python
@@ -292,6 +300,10 @@ Features:
 * Custom password length
 * One-click password generation
 
+GUI:  
+![GUI](Docs/pass_gen.jpeg)  
+
+
 Code:
 
 ```python
@@ -347,6 +359,9 @@ Features:
 * Add question and answer flashcards
 * Flip between question and answer
 * Cycle through saved flashcards
+
+GUI:  
+![GUI](Docs/flash.jpeg)  
 
 Code:
 
